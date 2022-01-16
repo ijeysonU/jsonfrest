@@ -1,0 +1,26 @@
+[
+  {
+    "user": "danvelez",
+    "pass": "admin123",
+    "rol": "Admin",
+    "full_name": "Daniel Vélez Miranda",
+    "img": "https://png.pngtree.com/png-vector/20190710/ourlarge/pngtree-user-vector-avatar-png-image_1541962.jpg",
+    "mail": "danvelez@gmail.com"
+  },
+  {
+    "user": "marcadena",
+    "pass": "cliente123",
+    "rol": "Cliente",
+    "full_name": "María Cadena Loor",
+    "img": "https://www.pinclipart.com/picdir/middle/8-81886_big-image-imagen-de-usuario-mujer-clipart.png",
+    "mail": "marcadena@gmail.com"
+  },
+  {
+    "user": "javfranco",
+    "pass": "vendedor",
+    "rol": "Vendedor",
+    "full_name": "Javier Franco Quiroz",
+    "img": "https://png.pngtree.com/element_our/png_detail/20181206/avatar-vector-icon-png_262117.jpg",
+    "mail": "javfranco@gmail.com"
+  }
+]
